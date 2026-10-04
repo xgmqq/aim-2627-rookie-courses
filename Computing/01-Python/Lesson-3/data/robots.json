@@ -1,0 +1,12 @@
+[
+  {
+    "type": "HeroRobot",
+    "name": "Hero-Alpha",
+    "hp": 600
+  },
+  {
+    "type": "InfantryRobot",
+    "name": "Infantry-Beta",
+    "hp": 88
+  }
+]
